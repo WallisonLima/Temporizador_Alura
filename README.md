@@ -1,3 +1,6 @@
+
+![temporizador](./src/assets/img/Screenshot_Temp.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
